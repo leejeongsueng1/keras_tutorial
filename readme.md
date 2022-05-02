@@ -1,18 +1,18 @@
-Keras Tutorial
+##Keras Tutorial
 
-conda create -n keras python=3.8
-conda activate keras
+conda create -n keras python=3.8 </br>
+conda activate keras </br>
 
-conda install keras
-conda install tensorflow
-conda install keras-utils
+conda install keras </br>
+conda install tensorflow </br>
+conda install keras-utils </br>
 
 # test
-python
->> import tensorflow as tf
->> import keras
->> tensorflow.__version__
->> keras.__version__
-
+python </br>
+>> import tensorflow as tf </br>
+>> import keras </br>
+>> tensorflow.__version__ </br>
+>> keras.__version__  </br>
+</br>
 
 이후 주피터 노트북에서 ipynb 실행하면 가능
