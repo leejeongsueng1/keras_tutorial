@@ -1,6 +1,6 @@
 ## Keras Tutorial
 </br>
-아나콘다 프롬프트에서 가상환경 생성 및 tensorflow, keras설치</br>
+아나콘다 프롬프트에서 가상환경 생성 및 tensorflow, keras 설치</br>
 
 가상환경 생성 </br>
 conda create -n keras python=3.8 </br>
