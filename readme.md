@@ -12,6 +12,7 @@ conda install keras </br>
 conda install tensorflow </br>
 conda install keras-utils </br>
 
+--------------------------------------------
 # test(설치확인)
 python 프롬프트에서</br>
 \>> import tensorflow as tf </br>
